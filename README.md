@@ -2,7 +2,7 @@
 - 👀 I’m interested in copying codes
 - 🌱 I’m currently learning how to copy
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 crazy_l@foxmail.com
 
 <!---
 vampirely/vampirely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
